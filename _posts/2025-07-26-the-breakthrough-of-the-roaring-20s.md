@@ -1,10 +1,10 @@
-## The Breakthrough of the ‘20s
+## The Breakthrough of the roaring ‘20s
 
-This post is a product of a brief afternoon walk-and-talk with Claude Code. Yes, you can do that now—welcome to the future.
+This post is a product of a brief afternoon walk-and-talk with Grok. Yes, you can do that now—welcome to the future.
 
 Here’s the core idea: the rapid technological progress we’re witnessing isn’t solely driven by Generative AI or you-name-it trending tech on the Gartner Hype Cycle. It’s way simpler that.
 
-We’ve reached the bifurcation point where the Internet brings maximum value and society is reaping the benefits of it. The infrastructure is there and we can boost collaboration and creativity to maximum on the shoulders of giants.
+We’ve reached a point where the Internet brings maximum value and society is reaping the benefits of it. The infrastructure is there and we can boost collaboration and creativity to maximum on the shoulders of giants.
 
 Remember the ol’ days of Netscape? I do not clearly, but the accent is following - there was tons of friction (discouraging, duh…) with uncertain payout (quite limited information).
 
